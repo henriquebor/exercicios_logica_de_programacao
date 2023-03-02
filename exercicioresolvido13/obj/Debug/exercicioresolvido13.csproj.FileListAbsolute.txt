@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\exercicios\exercicioresolvido13\bin\Debug\exercicioresolvido13.exe.config
+C:\Users\DUDU1\source\repos\exercicios\exercicioresolvido13\bin\Debug\exercicioresolvido13.exe
+C:\Users\DUDU1\source\repos\exercicios\exercicioresolvido13\bin\Debug\exercicioresolvido13.pdb
+C:\Users\DUDU1\source\repos\exercicios\exercicioresolvido13\obj\Debug\exercicioresolvido13.csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicioresolvido13\obj\Debug\exercicioresolvido13.csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicioresolvido13\obj\Debug\exercicioresolvido13.exe
+C:\Users\DUDU1\source\repos\exercicios\exercicioresolvido13\obj\Debug\exercicioresolvido13.pdb

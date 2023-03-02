@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\exercicios\exercicio21(LANCHE)\bin\Debug\exercicio21(LANCHE).exe.config
+C:\Users\DUDU1\source\repos\exercicios\exercicio21(LANCHE)\bin\Debug\exercicio21(LANCHE).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio21(LANCHE)\bin\Debug\exercicio21(LANCHE).pdb
+C:\Users\DUDU1\source\repos\exercicios\exercicio21(LANCHE)\obj\Debug\exercicio21(LANCHE).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio21(LANCHE)\obj\Debug\exercicio21(LANCHE).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio21(LANCHE)\obj\Debug\exercicio21(LANCHE).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio21(LANCHE)\obj\Debug\exercicio21(LANCHE).pdb

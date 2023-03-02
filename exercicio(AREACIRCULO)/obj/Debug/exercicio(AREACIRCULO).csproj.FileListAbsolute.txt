@@ -1,0 +1,6 @@
+C:\Users\DUDU1\source\repos\exercicios\exercicio(AREACIRCULO)\bin\Debug\exercicio(AREACIRCULO).exe.config
+C:\Users\DUDU1\source\repos\exercicios\exercicio(AREACIRCULO)\bin\Debug\exercicio(AREACIRCULO).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio(AREACIRCULO)\bin\Debug\exercicio(AREACIRCULO).pdb
+C:\Users\DUDU1\source\repos\exercicios\exercicio(AREACIRCULO)\obj\Debug\exercicio(AREACIRCULO).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio(AREACIRCULO)\obj\Debug\exercicio(AREACIRCULO).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio(AREACIRCULO)\obj\Debug\exercicio(AREACIRCULO).pdb

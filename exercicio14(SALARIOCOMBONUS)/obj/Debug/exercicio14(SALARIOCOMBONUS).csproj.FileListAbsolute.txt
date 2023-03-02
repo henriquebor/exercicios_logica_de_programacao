@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\exercicios\exercicio14(SALARIOCOMBONUS)\bin\Debug\exercicio14(SALARIOCOMBONUS).exe.config
+C:\Users\DUDU1\source\repos\exercicios\exercicio14(SALARIOCOMBONUS)\bin\Debug\exercicio14(SALARIOCOMBONUS).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio14(SALARIOCOMBONUS)\bin\Debug\exercicio14(SALARIOCOMBONUS).pdb
+C:\Users\DUDU1\source\repos\exercicios\exercicio14(SALARIOCOMBONUS)\obj\Debug\exercicio14(SALARIOCOMBONUS).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio14(SALARIOCOMBONUS)\obj\Debug\exercicio14(SALARIOCOMBONUS).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio14(SALARIOCOMBONUS)\obj\Debug\exercicio14(SALARIOCOMBONUS).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio14(SALARIOCOMBONUS)\obj\Debug\exercicio14(SALARIOCOMBONUS).pdb

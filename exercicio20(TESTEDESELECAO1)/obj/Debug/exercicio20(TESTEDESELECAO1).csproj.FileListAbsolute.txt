@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\exercicios\exercicio20(TESTEDESELECAO1)\bin\Debug\exercicio20(TESTEDESELECAO1).exe.config
+C:\Users\DUDU1\source\repos\exercicios\exercicio20(TESTEDESELECAO1)\bin\Debug\exercicio20(TESTEDESELECAO1).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio20(TESTEDESELECAO1)\bin\Debug\exercicio20(TESTEDESELECAO1).pdb
+C:\Users\DUDU1\source\repos\exercicios\exercicio20(TESTEDESELECAO1)\obj\Debug\exercicio20(TESTEDESELECAO1).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio20(TESTEDESELECAO1)\obj\Debug\exercicio20(TESTEDESELECAO1).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio20(TESTEDESELECAO1)\obj\Debug\exercicio20(TESTEDESELECAO1).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio20(TESTEDESELECAO1)\obj\Debug\exercicio20(TESTEDESELECAO1).pdb

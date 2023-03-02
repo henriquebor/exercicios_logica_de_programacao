@@ -1,0 +1,6 @@
+C:\Users\DUDU1\source\repos\exercicios\OLÁ MUNDO!!!!!!\bin\Debug\OLÁ MUNDO!!!!!!.exe.config
+C:\Users\DUDU1\source\repos\exercicios\OLÁ MUNDO!!!!!!\bin\Debug\OLÁ MUNDO!!!!!!.exe
+C:\Users\DUDU1\source\repos\exercicios\OLÁ MUNDO!!!!!!\bin\Debug\OLÁ MUNDO!!!!!!.pdb
+C:\Users\DUDU1\source\repos\exercicios\OLÁ MUNDO!!!!!!\obj\Debug\OLÁ MUNDO!!!!!!.csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\exercicios\OLÁ MUNDO!!!!!!\obj\Debug\OLÁ MUNDO!!!!!!.exe
+C:\Users\DUDU1\source\repos\exercicios\OLÁ MUNDO!!!!!!\obj\Debug\OLÁ MUNDO!!!!!!.pdb

@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\exercicios\exercicio10(DISTANCIA)\bin\Debug\exercicio10(DISTANCIA).exe.config
+C:\Users\DUDU1\source\repos\exercicios\exercicio10(DISTANCIA)\bin\Debug\exercicio10(DISTANCIA).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio10(DISTANCIA)\bin\Debug\exercicio10(DISTANCIA).pdb
+C:\Users\DUDU1\source\repos\exercicios\exercicio10(DISTANCIA)\obj\Debug\exercicio10(DISTANCIA).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio10(DISTANCIA)\obj\Debug\exercicio10(DISTANCIA).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio10(DISTANCIA)\obj\Debug\exercicio10(DISTANCIA).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio10(DISTANCIA)\obj\Debug\exercicio10(DISTANCIA).pdb

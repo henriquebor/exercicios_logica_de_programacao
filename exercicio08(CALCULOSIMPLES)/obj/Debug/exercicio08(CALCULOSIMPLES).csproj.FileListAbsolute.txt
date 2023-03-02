@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\exercicios\exercicio08(CALCULOSIMPLES)\bin\Debug\exercicio08(CALCULOSIMPLES).exe.config
+C:\Users\DUDU1\source\repos\exercicios\exercicio08(CALCULOSIMPLES)\bin\Debug\exercicio08(CALCULOSIMPLES).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio08(CALCULOSIMPLES)\bin\Debug\exercicio08(CALCULOSIMPLES).pdb
+C:\Users\DUDU1\source\repos\exercicios\exercicio08(CALCULOSIMPLES)\obj\Debug\exercicio08(CALCULOSIMPLES).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio08(CALCULOSIMPLES)\obj\Debug\exercicio08(CALCULOSIMPLES).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio08(CALCULOSIMPLES)\obj\Debug\exercicio08(CALCULOSIMPLES).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio08(CALCULOSIMPLES)\obj\Debug\exercicio08(CALCULOSIMPLES).pdb

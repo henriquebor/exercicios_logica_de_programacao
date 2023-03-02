@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\exercicios\exercicio22(MUTIPLOS)\bin\Debug\exercicio22(MUTIPLOS).exe.config
+C:\Users\DUDU1\source\repos\exercicios\exercicio22(MUTIPLOS)\bin\Debug\exercicio22(MUTIPLOS).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio22(MUTIPLOS)\bin\Debug\exercicio22(MUTIPLOS).pdb
+C:\Users\DUDU1\source\repos\exercicios\exercicio22(MUTIPLOS)\obj\Debug\exercicio22(MUTIPLOS).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio22(MUTIPLOS)\obj\Debug\exercicio22(MUTIPLOS).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio22(MUTIPLOS)\obj\Debug\exercicio22(MUTIPLOS).pdb
+C:\Users\DUDU1\source\repos\exercicios\exercicio22(MUTIPLOS)\obj\Debug\exercicio22(MUTIPLOS).csproj.AssemblyReference.cache

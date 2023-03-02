@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\exercicios\exemplocondicional\bin\Debug\exemplocondicional.exe.config
+C:\Users\DUDU1\source\repos\exercicios\exemplocondicional\bin\Debug\exemplocondicional.exe
+C:\Users\DUDU1\source\repos\exercicios\exemplocondicional\bin\Debug\exemplocondicional.pdb
+C:\Users\DUDU1\source\repos\exercicios\exemplocondicional\obj\Debug\exemplocondicional.csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\exercicios\exemplocondicional\obj\Debug\exemplocondicional.csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\exercicios\exemplocondicional\obj\Debug\exemplocondicional.exe
+C:\Users\DUDU1\source\repos\exercicios\exemplocondicional\obj\Debug\exemplocondicional.pdb

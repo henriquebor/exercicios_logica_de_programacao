@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\exercicios\exercicio16(CALCULOAREA)\bin\Debug\exercicio16(CALCULOAREA).exe.config
+C:\Users\DUDU1\source\repos\exercicios\exercicio16(CALCULOAREA)\bin\Debug\exercicio16(CALCULOAREA).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio16(CALCULOAREA)\bin\Debug\exercicio16(CALCULOAREA).pdb
+C:\Users\DUDU1\source\repos\exercicios\exercicio16(CALCULOAREA)\obj\Debug\exercicio16(CALCULOAREA).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio16(CALCULOAREA)\obj\Debug\exercicio16(CALCULOAREA).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio16(CALCULOAREA)\obj\Debug\exercicio16(CALCULOAREA).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio16(CALCULOAREA)\obj\Debug\exercicio16(CALCULOAREA).pdb

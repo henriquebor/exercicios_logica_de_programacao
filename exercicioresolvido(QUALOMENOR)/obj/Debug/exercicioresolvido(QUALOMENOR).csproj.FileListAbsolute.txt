@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\exercicios\exercicioresolvido(QUALOMENOR)\bin\Debug\exercicioresolvido(QUALOMENOR).exe.config
+C:\Users\DUDU1\source\repos\exercicios\exercicioresolvido(QUALOMENOR)\bin\Debug\exercicioresolvido(QUALOMENOR).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicioresolvido(QUALOMENOR)\bin\Debug\exercicioresolvido(QUALOMENOR).pdb
+C:\Users\DUDU1\source\repos\exercicios\exercicioresolvido(QUALOMENOR)\obj\Debug\exercicioresolvido(QUALOMENOR).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicioresolvido(QUALOMENOR)\obj\Debug\exercicioresolvido(QUALOMENOR).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicioresolvido(QUALOMENOR)\obj\Debug\exercicioresolvido(QUALOMENOR).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicioresolvido(QUALOMENOR)\obj\Debug\exercicioresolvido(QUALOMENOR).pdb

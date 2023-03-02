@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\exercicios\exercicio09(ESFERA)\bin\Debug\exercicio09(ESFERA).exe.config
+C:\Users\DUDU1\source\repos\exercicios\exercicio09(ESFERA)\bin\Debug\exercicio09(ESFERA).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio09(ESFERA)\bin\Debug\exercicio09(ESFERA).pdb
+C:\Users\DUDU1\source\repos\exercicios\exercicio09(ESFERA)\obj\Debug\exercicio09(ESFERA).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio09(ESFERA)\obj\Debug\exercicio09(ESFERA).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio09(ESFERA)\obj\Debug\exercicio09(ESFERA).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio09(ESFERA)\obj\Debug\exercicio09(ESFERA).pdb

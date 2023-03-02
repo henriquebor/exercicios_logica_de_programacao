@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\exercicios\exercicio15(CALCULARVOLUME)\bin\Debug\exercicio15(CALCULARVOLUME).exe.config
+C:\Users\DUDU1\source\repos\exercicios\exercicio15(CALCULARVOLUME)\bin\Debug\exercicio15(CALCULARVOLUME).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio15(CALCULARVOLUME)\bin\Debug\exercicio15(CALCULARVOLUME).pdb
+C:\Users\DUDU1\source\repos\exercicios\exercicio15(CALCULARVOLUME)\obj\Debug\exercicio15(CALCULARVOLUME).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio15(CALCULARVOLUME)\obj\Debug\exercicio15(CALCULARVOLUME).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio15(CALCULARVOLUME)\obj\Debug\exercicio15(CALCULARVOLUME).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio15(CALCULARVOLUME)\obj\Debug\exercicio15(CALCULARVOLUME).pdb

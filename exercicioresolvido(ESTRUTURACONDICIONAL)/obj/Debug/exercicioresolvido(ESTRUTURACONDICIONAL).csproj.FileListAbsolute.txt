@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\exercicios\exercicioresolvido(ESTRUTURACONDICIONAL)\bin\Debug\exercicioresolvido(ESTRUTURACONDICIONAL).exe.config
+C:\Users\DUDU1\source\repos\exercicios\exercicioresolvido(ESTRUTURACONDICIONAL)\bin\Debug\exercicioresolvido(ESTRUTURACONDICIONAL).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicioresolvido(ESTRUTURACONDICIONAL)\bin\Debug\exercicioresolvido(ESTRUTURACONDICIONAL).pdb
+C:\Users\DUDU1\source\repos\exercicios\exercicioresolvido(ESTRUTURACONDICIONAL)\obj\Debug\exercicioresolvido(ESTRUTURACONDICIONAL).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicioresolvido(ESTRUTURACONDICIONAL)\obj\Debug\exercicioresolvido(ESTRUTURACONDICIONAL).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicioresolvido(ESTRUTURACONDICIONAL)\obj\Debug\exercicioresolvido(ESTRUTURACONDICIONAL).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicioresolvido(ESTRUTURACONDICIONAL)\obj\Debug\exercicioresolvido(ESTRUTURACONDICIONAL).pdb

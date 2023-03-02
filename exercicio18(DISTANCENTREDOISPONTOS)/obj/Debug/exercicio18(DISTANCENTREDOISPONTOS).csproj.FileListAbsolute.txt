@@ -1,0 +1,6 @@
+C:\Users\DUDU1\source\repos\exercicios\exercicio18(DISTANCENTREDOISPONTOS)\bin\Debug\exercicio18(DISTANCENTREDOISPONTOS).exe.config
+C:\Users\DUDU1\source\repos\exercicios\exercicio18(DISTANCENTREDOISPONTOS)\bin\Debug\exercicio18(DISTANCENTREDOISPONTOS).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio18(DISTANCENTREDOISPONTOS)\bin\Debug\exercicio18(DISTANCENTREDOISPONTOS).pdb
+C:\Users\DUDU1\source\repos\exercicios\exercicio18(DISTANCENTREDOISPONTOS)\obj\Debug\exercicio18(DISTANCENTREDOISPONTOS).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio18(DISTANCENTREDOISPONTOS)\obj\Debug\exercicio18(DISTANCENTREDOISPONTOS).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio18(DISTANCENTREDOISPONTOS)\obj\Debug\exercicio18(DISTANCENTREDOISPONTOS).pdb

@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\exercicios\exercicio17(OMAIOR)\bin\Debug\exercicio17(OMAIOR).exe.config
+C:\Users\DUDU1\source\repos\exercicios\exercicio17(OMAIOR)\bin\Debug\exercicio17(OMAIOR).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio17(OMAIOR)\bin\Debug\exercicio17(OMAIOR).pdb
+C:\Users\DUDU1\source\repos\exercicios\exercicio17(OMAIOR)\obj\Debug\exercicio17(OMAIOR).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio17(OMAIOR)\obj\Debug\exercicio17(OMAIOR).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio17(OMAIOR)\obj\Debug\exercicio17(OMAIOR).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio17(OMAIOR)\obj\Debug\exercicio17(OMAIOR).pdb

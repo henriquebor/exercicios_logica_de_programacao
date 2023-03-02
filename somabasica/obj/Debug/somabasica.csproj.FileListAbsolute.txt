@@ -1,0 +1,6 @@
+C:\Users\DUDU1\source\repos\exercicios\somabasica\bin\Debug\somabasica.exe.config
+C:\Users\DUDU1\source\repos\exercicios\somabasica\bin\Debug\somabasica.exe
+C:\Users\DUDU1\source\repos\exercicios\somabasica\bin\Debug\somabasica.pdb
+C:\Users\DUDU1\source\repos\exercicios\somabasica\obj\Debug\somabasica.csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\exercicios\somabasica\obj\Debug\somabasica.exe
+C:\Users\DUDU1\source\repos\exercicios\somabasica\obj\Debug\somabasica.pdb

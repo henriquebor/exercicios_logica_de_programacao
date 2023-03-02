@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\exercicios\exercicioresolvido(switch-case)\bin\Debug\exercicioresolvido(switch-case).exe.config
+C:\Users\DUDU1\source\repos\exercicios\exercicioresolvido(switch-case)\bin\Debug\exercicioresolvido(switch-case).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicioresolvido(switch-case)\bin\Debug\exercicioresolvido(switch-case).pdb
+C:\Users\DUDU1\source\repos\exercicios\exercicioresolvido(switch-case)\obj\Debug\exercicioresolvido(switch-case).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicioresolvido(switch-case)\obj\Debug\exercicioresolvido(switch-case).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicioresolvido(switch-case)\obj\Debug\exercicioresolvido(switch-case).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicioresolvido(switch-case)\obj\Debug\exercicioresolvido(switch-case).pdb

@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\exercicios\exercicio19(CEDULA)\bin\Debug\exercicio19(CEDULA).exe.config
+C:\Users\DUDU1\source\repos\exercicios\exercicio19(CEDULA)\bin\Debug\exercicio19(CEDULA).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio19(CEDULA)\bin\Debug\exercicio19(CEDULA).pdb
+C:\Users\DUDU1\source\repos\exercicios\exercicio19(CEDULA)\obj\Debug\exercicio19(CEDULA).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio19(CEDULA)\obj\Debug\exercicio19(CEDULA).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio19(CEDULA)\obj\Debug\exercicio19(CEDULA).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio19(CEDULA)\obj\Debug\exercicio19(CEDULA).pdb

@@ -1,0 +1,6 @@
+C:\Users\DUDU1\source\repos\exercicios\exercicio06(DIFERENÇA)\bin\Debug\exercicio06(DIFERENÇA).exe.config
+C:\Users\DUDU1\source\repos\exercicios\exercicio06(DIFERENÇA)\bin\Debug\exercicio06(DIFERENÇA).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio06(DIFERENÇA)\bin\Debug\exercicio06(DIFERENÇA).pdb
+C:\Users\DUDU1\source\repos\exercicios\exercicio06(DIFERENÇA)\obj\Debug\exercicio06(DIFERENÇA).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio06(DIFERENÇA)\obj\Debug\exercicio06(DIFERENÇA).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio06(DIFERENÇA)\obj\Debug\exercicio06(DIFERENÇA).pdb

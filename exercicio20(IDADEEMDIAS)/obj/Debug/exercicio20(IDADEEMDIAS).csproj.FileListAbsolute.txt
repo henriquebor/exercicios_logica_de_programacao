@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\exercicios\exercicio20(IDADEEMDIAS)\bin\Debug\exercicio20(IDADEEMDIAS).exe.config
+C:\Users\DUDU1\source\repos\exercicios\exercicio20(IDADEEMDIAS)\bin\Debug\exercicio20(IDADEEMDIAS).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio20(IDADEEMDIAS)\bin\Debug\exercicio20(IDADEEMDIAS).pdb
+C:\Users\DUDU1\source\repos\exercicios\exercicio20(IDADEEMDIAS)\obj\Debug\exercicio20(IDADEEMDIAS).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio20(IDADEEMDIAS)\obj\Debug\exercicio20(IDADEEMDIAS).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio20(IDADEEMDIAS)\obj\Debug\exercicio20(IDADEEMDIAS).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio20(IDADEEMDIAS)\obj\Debug\exercicio20(IDADEEMDIAS).pdb

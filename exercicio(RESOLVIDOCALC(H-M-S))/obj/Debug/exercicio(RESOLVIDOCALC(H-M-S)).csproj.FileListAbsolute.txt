@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\exercicios\exercicio(RESOLVIDOCALC(H-M-S))\bin\Debug\exercicio(RESOLVIDOCALC(H-M-S)).exe.config
+C:\Users\DUDU1\source\repos\exercicios\exercicio(RESOLVIDOCALC(H-M-S))\bin\Debug\exercicio(RESOLVIDOCALC(H-M-S)).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio(RESOLVIDOCALC(H-M-S))\bin\Debug\exercicio(RESOLVIDOCALC(H-M-S)).pdb
+C:\Users\DUDU1\source\repos\exercicios\exercicio(RESOLVIDOCALC(H-M-S))\obj\Debug\exercicio(RESOLVIDOCALC(H-M-S)).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio(RESOLVIDOCALC(H-M-S))\obj\Debug\exercicio(RESOLVIDOCALC(H-M-S)).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio(RESOLVIDOCALC(H-M-S))\obj\Debug\exercicio(RESOLVIDOCALC(H-M-S)).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio(RESOLVIDOCALC(H-M-S))\obj\Debug\exercicio(RESOLVIDOCALC(H-M-S)).pdb

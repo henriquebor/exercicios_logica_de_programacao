@@ -1,0 +1,6 @@
+C:\Users\DUDU1\source\repos\exercicios\exercicio11(GASTODECOMBUSTIVEL)\bin\Debug\exercicio11(GASTODECOMBUSTIVEL).exe.config
+C:\Users\DUDU1\source\repos\exercicios\exercicio11(GASTODECOMBUSTIVEL)\bin\Debug\exercicio11(GASTODECOMBUSTIVEL).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio11(GASTODECOMBUSTIVEL)\bin\Debug\exercicio11(GASTODECOMBUSTIVEL).pdb
+C:\Users\DUDU1\source\repos\exercicios\exercicio11(GASTODECOMBUSTIVEL)\obj\Debug\exercicio11(GASTODECOMBUSTIVEL).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio11(GASTODECOMBUSTIVEL)\obj\Debug\exercicio11(GASTODECOMBUSTIVEL).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio11(GASTODECOMBUSTIVEL)\obj\Debug\exercicio11(GASTODECOMBUSTIVEL).pdb
