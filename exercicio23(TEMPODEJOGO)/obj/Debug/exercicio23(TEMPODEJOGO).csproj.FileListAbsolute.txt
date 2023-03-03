@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\exercicios\exercicio23(TEMPODEJOGO)\bin\Debug\exercicio23(TEMPODEJOGO).exe.config
+C:\Users\DUDU1\source\repos\exercicios\exercicio23(TEMPODEJOGO)\bin\Debug\exercicio23(TEMPODEJOGO).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio23(TEMPODEJOGO)\bin\Debug\exercicio23(TEMPODEJOGO).pdb
+C:\Users\DUDU1\source\repos\exercicios\exercicio23(TEMPODEJOGO)\obj\Debug\exercicio23(TEMPODEJOGO).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio23(TEMPODEJOGO)\obj\Debug\exercicio23(TEMPODEJOGO).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio23(TEMPODEJOGO)\obj\Debug\exercicio23(TEMPODEJOGO).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio23(TEMPODEJOGO)\obj\Debug\exercicio23(TEMPODEJOGO).pdb
