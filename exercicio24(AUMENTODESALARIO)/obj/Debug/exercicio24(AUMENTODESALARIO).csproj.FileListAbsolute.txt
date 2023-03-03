@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\exercicios\exercicio24(AUMENTODESALARIO)\bin\Debug\exercicio24(AUMENTODESALARIO).exe.config
+C:\Users\DUDU1\source\repos\exercicios\exercicio24(AUMENTODESALARIO)\bin\Debug\exercicio24(AUMENTODESALARIO).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio24(AUMENTODESALARIO)\bin\Debug\exercicio24(AUMENTODESALARIO).pdb
+C:\Users\DUDU1\source\repos\exercicios\exercicio24(AUMENTODESALARIO)\obj\Debug\exercicio24(AUMENTODESALARIO).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio24(AUMENTODESALARIO)\obj\Debug\exercicio24(AUMENTODESALARIO).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio24(AUMENTODESALARIO)\obj\Debug\exercicio24(AUMENTODESALARIO).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio24(AUMENTODESALARIO)\obj\Debug\exercicio24(AUMENTODESALARIO).pdb
