@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\exercicios\exercicio26(MEDIA3)\bin\Debug\exercicio26(MEDIA3).exe.config
+C:\Users\DUDU1\source\repos\exercicios\exercicio26(MEDIA3)\bin\Debug\exercicio26(MEDIA3).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio26(MEDIA3)\bin\Debug\exercicio26(MEDIA3).pdb
+C:\Users\DUDU1\source\repos\exercicios\exercicio26(MEDIA3)\obj\Debug\exercicio26(MEDIA3).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio26(MEDIA3)\obj\Debug\exercicio26(MEDIA3).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio26(MEDIA3)\obj\Debug\exercicio26(MEDIA3).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio26(MEDIA3)\obj\Debug\exercicio26(MEDIA3).pdb

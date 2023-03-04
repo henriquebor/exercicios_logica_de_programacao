@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\exercicios\exercicio25(INTERVALO)\bin\Debug\exercicio25(INTERVALO).exe.config
+C:\Users\DUDU1\source\repos\exercicios\exercicio25(INTERVALO)\bin\Debug\exercicio25(INTERVALO).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio25(INTERVALO)\bin\Debug\exercicio25(INTERVALO).pdb
+C:\Users\DUDU1\source\repos\exercicios\exercicio25(INTERVALO)\obj\Debug\exercicio25(INTERVALO).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio25(INTERVALO)\obj\Debug\exercicio25(INTERVALO).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio25(INTERVALO)\obj\Debug\exercicio25(INTERVALO).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio25(INTERVALO)\obj\Debug\exercicio25(INTERVALO).pdb

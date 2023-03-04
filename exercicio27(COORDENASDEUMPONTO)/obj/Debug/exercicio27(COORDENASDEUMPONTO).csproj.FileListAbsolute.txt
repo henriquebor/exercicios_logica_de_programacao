@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\exercicios\exercicio27(COORDENASDEUMPONTO)\bin\Debug\exercicio27(COORDENASDEUMPONTO).exe.config
+C:\Users\DUDU1\source\repos\exercicios\exercicio27(COORDENASDEUMPONTO)\bin\Debug\exercicio27(COORDENASDEUMPONTO).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio27(COORDENASDEUMPONTO)\bin\Debug\exercicio27(COORDENASDEUMPONTO).pdb
+C:\Users\DUDU1\source\repos\exercicios\exercicio27(COORDENASDEUMPONTO)\obj\Debug\exercicio27(COORDENASDEUMPONTO).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio27(COORDENASDEUMPONTO)\obj\Debug\exercicio27(COORDENASDEUMPONTO).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio27(COORDENASDEUMPONTO)\obj\Debug\exercicio27(COORDENASDEUMPONTO).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio27(COORDENASDEUMPONTO)\obj\Debug\exercicio27(COORDENASDEUMPONTO).pdb
