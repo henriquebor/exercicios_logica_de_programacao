@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\exercicios\exercicio29(TEMPODEJOGO)\bin\Debug\exercicio29(TEMPODEJOGO).exe.config
+C:\Users\DUDU1\source\repos\exercicios\exercicio29(TEMPODEJOGO)\bin\Debug\exercicio29(TEMPODEJOGO).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio29(TEMPODEJOGO)\bin\Debug\exercicio29(TEMPODEJOGO).pdb
+C:\Users\DUDU1\source\repos\exercicios\exercicio29(TEMPODEJOGO)\obj\Debug\exercicio29(TEMPODEJOGO).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio29(TEMPODEJOGO)\obj\Debug\exercicio29(TEMPODEJOGO).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio29(TEMPODEJOGO)\obj\Debug\exercicio29(TEMPODEJOGO).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio29(TEMPODEJOGO)\obj\Debug\exercicio29(TEMPODEJOGO).pdb

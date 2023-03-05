@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\exercicios\exercicio28(TIPOSDETRIANGULO)\bin\Debug\exercicio28(TIPOSDETRIANGULO).exe.config
+C:\Users\DUDU1\source\repos\exercicios\exercicio28(TIPOSDETRIANGULO)\bin\Debug\exercicio28(TIPOSDETRIANGULO).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio28(TIPOSDETRIANGULO)\bin\Debug\exercicio28(TIPOSDETRIANGULO).pdb
+C:\Users\DUDU1\source\repos\exercicios\exercicio28(TIPOSDETRIANGULO)\obj\Debug\exercicio28(TIPOSDETRIANGULO).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio28(TIPOSDETRIANGULO)\obj\Debug\exercicio28(TIPOSDETRIANGULO).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio28(TIPOSDETRIANGULO)\obj\Debug\exercicio28(TIPOSDETRIANGULO).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio28(TIPOSDETRIANGULO)\obj\Debug\exercicio28(TIPOSDETRIANGULO).pdb

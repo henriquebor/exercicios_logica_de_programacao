@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\exercicios\exercicio30(ANIMAL)\obj\Debug\exercicio30(ANIMAL).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio30(ANIMAL)\obj\Debug\exercicio30(ANIMAL).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\exercicios\exercicio30(ANIMAL)\bin\Debug\exercicio30(ANIMAL).exe.config
+C:\Users\DUDU1\source\repos\exercicios\exercicio30(ANIMAL)\bin\Debug\exercicio30(ANIMAL).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio30(ANIMAL)\bin\Debug\exercicio30(ANIMAL).pdb
+C:\Users\DUDU1\source\repos\exercicios\exercicio30(ANIMAL)\obj\Debug\exercicio30(ANIMAL).exe
+C:\Users\DUDU1\source\repos\exercicios\exercicio30(ANIMAL)\obj\Debug\exercicio30(ANIMAL).pdb
