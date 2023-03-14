@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio37(INTERVALO)\bin\Debug\exercicio37(INTERVALO).exe.config
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio37(INTERVALO)\bin\Debug\exercicio37(INTERVALO).exe
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio37(INTERVALO)\bin\Debug\exercicio37(INTERVALO).pdb
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio37(INTERVALO)\obj\Debug\exercicio37(INTERVALO).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio37(INTERVALO)\obj\Debug\exercicio37(INTERVALO).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio37(INTERVALO)\obj\Debug\exercicio37(INTERVALO).exe
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio37(INTERVALO)\obj\Debug\exercicio37(INTERVALO).pdb

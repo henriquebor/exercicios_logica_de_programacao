@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio36(IMPARES)\bin\Debug\exercicio36(IMPARES).exe.config
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio36(IMPARES)\bin\Debug\exercicio36(IMPARES).exe
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio36(IMPARES)\bin\Debug\exercicio36(IMPARES).pdb
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio36(IMPARES)\obj\Debug\exercicio36(IMPARES).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio36(IMPARES)\obj\Debug\exercicio36(IMPARES).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio36(IMPARES)\obj\Debug\exercicio36(IMPARES).exe
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio36(IMPARES)\obj\Debug\exercicio36(IMPARES).pdb
