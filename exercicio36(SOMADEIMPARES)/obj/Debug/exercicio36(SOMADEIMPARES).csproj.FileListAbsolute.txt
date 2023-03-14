@@ -1,0 +1,6 @@
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio36(SOMADEIMPARES)\bin\Debug\exercicio36(SOMADEIMPARES).exe.config
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio36(SOMADEIMPARES)\bin\Debug\exercicio36(SOMADEIMPARES).exe
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio36(SOMADEIMPARES)\bin\Debug\exercicio36(SOMADEIMPARES).pdb
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio36(SOMADEIMPARES)\obj\Debug\exercicio36(SOMADEIMPARES).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio36(SOMADEIMPARES)\obj\Debug\exercicio36(SOMADEIMPARES).exe
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio36(SOMADEIMPARES)\obj\Debug\exercicio36(SOMADEIMPARES).pdb

@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio35(TABUADA)\bin\Debug\exercicio35(TABUADA).exe.config
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio35(TABUADA)\bin\Debug\exercicio35(TABUADA).exe
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio35(TABUADA)\bin\Debug\exercicio35(TABUADA).pdb
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio35(TABUADA)\obj\Debug\exercicio35(TABUADA).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio35(TABUADA)\obj\Debug\exercicio35(TABUADA).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio35(TABUADA)\obj\Debug\exercicio35(TABUADA).exe
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio35(TABUADA)\obj\Debug\exercicio35(TABUADA).pdb

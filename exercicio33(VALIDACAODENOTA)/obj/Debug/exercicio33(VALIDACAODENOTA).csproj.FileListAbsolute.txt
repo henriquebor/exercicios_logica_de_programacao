@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio33(VALIDACAODENOTA)\bin\Debug\exercicio33(VALIDACAODENOTA).exe.config
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio33(VALIDACAODENOTA)\bin\Debug\exercicio33(VALIDACAODENOTA).exe
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio33(VALIDACAODENOTA)\bin\Debug\exercicio33(VALIDACAODENOTA).pdb
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio33(VALIDACAODENOTA)\obj\Debug\exercicio33(VALIDACAODENOTA).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio33(VALIDACAODENOTA)\obj\Debug\exercicio33(VALIDACAODENOTA).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio33(VALIDACAODENOTA)\obj\Debug\exercicio33(VALIDACAODENOTA).exe
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio33(VALIDACAODENOTA)\obj\Debug\exercicio33(VALIDACAODENOTA).pdb

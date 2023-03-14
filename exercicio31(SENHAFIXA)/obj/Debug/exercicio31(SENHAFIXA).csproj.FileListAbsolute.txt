@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio31(SENHAFIXA)\bin\Debug\exercicio31(SENHAFIXA).exe.config
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio31(SENHAFIXA)\bin\Debug\exercicio31(SENHAFIXA).exe
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio31(SENHAFIXA)\bin\Debug\exercicio31(SENHAFIXA).pdb
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio31(SENHAFIXA)\obj\Debug\exercicio31(SENHAFIXA).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio31(SENHAFIXA)\obj\Debug\exercicio31(SENHAFIXA).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio31(SENHAFIXA)\obj\Debug\exercicio31(SENHAFIXA).exe
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio31(SENHAFIXA)\obj\Debug\exercicio31(SENHAFIXA).pdb
