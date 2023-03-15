@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio38(QUADRADODEPARES)\bin\Debug\exercicio38(QUADRADODEPARES).exe.config
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio38(QUADRADODEPARES)\bin\Debug\exercicio38(QUADRADODEPARES).exe
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio38(QUADRADODEPARES)\bin\Debug\exercicio38(QUADRADODEPARES).pdb
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio38(QUADRADODEPARES)\obj\Debug\exercicio38(QUADRADODEPARES).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio38(QUADRADODEPARES)\obj\Debug\exercicio38(QUADRADODEPARES).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio38(QUADRADODEPARES)\obj\Debug\exercicio38(QUADRADODEPARES).exe
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio38(QUADRADODEPARES)\obj\Debug\exercicio38(QUADRADODEPARES).pdb

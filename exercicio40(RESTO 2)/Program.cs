@@ -4,22 +4,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace exercicio38_QUADRADODEPARES_
+namespace exercicio40_RESTO_2_
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int n;
-            n = int.Parse(Console.ReadLine());
+            int n = int.Parse(Console.ReadLine());
 
-            for (int i= 1; i <= n; i++)
+            for (int i = 1; i < 10000; i++)
             {
-                if (i % 2 ==0)
+                if(i % n == 2)
                 {
-                    int resultado = i * i;
-                    Console.WriteLine(i + "^2 = " + resultado);
+                    Console.WriteLine(i);
                 }
+                
             }
             Console.ReadLine();
         }

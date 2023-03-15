@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio41(MEDIASPONDERADAS)\bin\Debug\exercicio41(MEDIASPONDERADAS).exe.config
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio41(MEDIASPONDERADAS)\bin\Debug\exercicio41(MEDIASPONDERADAS).exe
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio41(MEDIASPONDERADAS)\bin\Debug\exercicio41(MEDIASPONDERADAS).pdb
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio41(MEDIASPONDERADAS)\obj\Debug\exercicio41(MEDIASPONDERADAS).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio41(MEDIASPONDERADAS)\obj\Debug\exercicio41(MEDIASPONDERADAS).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio41(MEDIASPONDERADAS)\obj\Debug\exercicio41(MEDIASPONDERADAS).exe
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio41(MEDIASPONDERADAS)\obj\Debug\exercicio41(MEDIASPONDERADAS).pdb

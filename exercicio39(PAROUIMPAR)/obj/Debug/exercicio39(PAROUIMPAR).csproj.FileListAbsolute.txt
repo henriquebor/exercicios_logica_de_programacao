@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio39(PAROUIMPAR)\bin\Debug\exercicio39(PAROUIMPAR).exe.config
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio39(PAROUIMPAR)\bin\Debug\exercicio39(PAROUIMPAR).exe
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio39(PAROUIMPAR)\bin\Debug\exercicio39(PAROUIMPAR).pdb
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio39(PAROUIMPAR)\obj\Debug\exercicio39(PAROUIMPAR).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio39(PAROUIMPAR)\obj\Debug\exercicio39(PAROUIMPAR).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio39(PAROUIMPAR)\obj\Debug\exercicio39(PAROUIMPAR).exe
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio39(PAROUIMPAR)\obj\Debug\exercicio39(PAROUIMPAR).pdb
