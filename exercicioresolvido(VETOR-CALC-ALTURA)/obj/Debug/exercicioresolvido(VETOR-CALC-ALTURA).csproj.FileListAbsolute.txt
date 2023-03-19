@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicioresolvido(VETOR-CALC-ALTURA)\bin\Debug\exercicioresolvido(VETOR-CALC-ALTURA).exe.config
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicioresolvido(VETOR-CALC-ALTURA)\bin\Debug\exercicioresolvido(VETOR-CALC-ALTURA).exe
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicioresolvido(VETOR-CALC-ALTURA)\bin\Debug\exercicioresolvido(VETOR-CALC-ALTURA).pdb
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicioresolvido(VETOR-CALC-ALTURA)\obj\Debug\exercicioresolvido(VETOR-CALC-ALTURA).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicioresolvido(VETOR-CALC-ALTURA)\obj\Debug\exercicioresolvido(VETOR-CALC-ALTURA).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicioresolvido(VETOR-CALC-ALTURA)\obj\Debug\exercicioresolvido(VETOR-CALC-ALTURA).exe
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicioresolvido(VETOR-CALC-ALTURA)\obj\Debug\exercicioresolvido(VETOR-CALC-ALTURA).pdb
