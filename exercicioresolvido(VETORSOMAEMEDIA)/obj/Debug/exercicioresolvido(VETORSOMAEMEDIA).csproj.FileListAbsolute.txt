@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicioresolvido(VETORSOMAEMEDIA)\bin\Debug\exercicioresolvido(VETORSOMAEMEDIA).exe.config
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicioresolvido(VETORSOMAEMEDIA)\bin\Debug\exercicioresolvido(VETORSOMAEMEDIA).exe
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicioresolvido(VETORSOMAEMEDIA)\bin\Debug\exercicioresolvido(VETORSOMAEMEDIA).pdb
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicioresolvido(VETORSOMAEMEDIA)\obj\Debug\exercicioresolvido(VETORSOMAEMEDIA).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicioresolvido(VETORSOMAEMEDIA)\obj\Debug\exercicioresolvido(VETORSOMAEMEDIA).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicioresolvido(VETORSOMAEMEDIA)\obj\Debug\exercicioresolvido(VETORSOMAEMEDIA).exe
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicioresolvido(VETORSOMAEMEDIA)\obj\Debug\exercicioresolvido(VETORSOMAEMEDIA).pdb

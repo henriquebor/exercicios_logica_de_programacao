@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio43(EXPERIENCIAS)\bin\Debug\exercicio43(EXPERIENCIAS).exe.config
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio43(EXPERIENCIAS)\bin\Debug\exercicio43(EXPERIENCIAS).exe
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio43(EXPERIENCIAS)\bin\Debug\exercicio43(EXPERIENCIAS).pdb
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio43(EXPERIENCIAS)\obj\Debug\exercicio43(EXPERIENCIAS).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio43(EXPERIENCIAS)\obj\Debug\exercicio43(EXPERIENCIAS).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio43(EXPERIENCIAS)\obj\Debug\exercicio43(EXPERIENCIAS).exe
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio43(EXPERIENCIAS)\obj\Debug\exercicio43(EXPERIENCIAS).pdb

@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\esercicioresolvido(VETOR-LERNUMERONEGATIVO)\bin\Debug\esercicioresolvido(VETOR-LERNUMERONEGATIVO).exe.config
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\esercicioresolvido(VETOR-LERNUMERONEGATIVO)\bin\Debug\esercicioresolvido(VETOR-LERNUMERONEGATIVO).exe
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\esercicioresolvido(VETOR-LERNUMERONEGATIVO)\bin\Debug\esercicioresolvido(VETOR-LERNUMERONEGATIVO).pdb
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\esercicioresolvido(VETOR-LERNUMERONEGATIVO)\obj\Debug\esercicioresolvido(VETOR-LERNUMERONEGATIVO).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\esercicioresolvido(VETOR-LERNUMERONEGATIVO)\obj\Debug\esercicioresolvido(VETOR-LERNUMERONEGATIVO).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\esercicioresolvido(VETOR-LERNUMERONEGATIVO)\obj\Debug\esercicioresolvido(VETOR-LERNUMERONEGATIVO).exe
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\esercicioresolvido(VETOR-LERNUMERONEGATIVO)\obj\Debug\esercicioresolvido(VETOR-LERNUMERONEGATIVO).pdb

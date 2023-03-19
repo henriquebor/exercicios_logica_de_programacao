@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicioresolvido(VETOR)\bin\Debug\exercicioresolvido(VETOR).exe.config
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicioresolvido(VETOR)\bin\Debug\exercicioresolvido(VETOR).exe
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicioresolvido(VETOR)\bin\Debug\exercicioresolvido(VETOR).pdb
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicioresolvido(VETOR)\obj\Debug\exercicioresolvido(VETOR).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicioresolvido(VETOR)\obj\Debug\exercicioresolvido(VETOR).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicioresolvido(VETOR)\obj\Debug\exercicioresolvido(VETOR).exe
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicioresolvido(VETOR)\obj\Debug\exercicioresolvido(VETOR).pdb
