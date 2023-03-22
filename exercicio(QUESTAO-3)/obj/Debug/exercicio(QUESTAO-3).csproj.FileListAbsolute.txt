@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio(QUESTAO-3)\bin\Debug\exercicio(QUESTAO-3).exe.config
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio(QUESTAO-3)\bin\Debug\exercicio(QUESTAO-3).exe
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio(QUESTAO-3)\bin\Debug\exercicio(QUESTAO-3).pdb
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio(QUESTAO-3)\obj\Debug\exercicio(QUESTAO-3).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio(QUESTAO-3)\obj\Debug\exercicio(QUESTAO-3).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio(QUESTAO-3)\obj\Debug\exercicio(QUESTAO-3).exe
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio(QUESTAO-3)\obj\Debug\exercicio(QUESTAO-3).pdb

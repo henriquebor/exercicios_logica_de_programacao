@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio44(VETOR-NUMEROS-REAIS)\bin\Debug\exercicio44(VETOR-NUMEROS-REAIS).exe.config
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio44(VETOR-NUMEROS-REAIS)\bin\Debug\exercicio44(VETOR-NUMEROS-REAIS).exe
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio44(VETOR-NUMEROS-REAIS)\bin\Debug\exercicio44(VETOR-NUMEROS-REAIS).pdb
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio44(VETOR-NUMEROS-REAIS)\obj\Debug\exercicio44(VETOR-NUMEROS-REAIS).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio44(VETOR-NUMEROS-REAIS)\obj\Debug\exercicio44(VETOR-NUMEROS-REAIS).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio44(VETOR-NUMEROS-REAIS)\obj\Debug\exercicio44(VETOR-NUMEROS-REAIS).exe
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio44(VETOR-NUMEROS-REAIS)\obj\Debug\exercicio44(VETOR-NUMEROS-REAIS).pdb
