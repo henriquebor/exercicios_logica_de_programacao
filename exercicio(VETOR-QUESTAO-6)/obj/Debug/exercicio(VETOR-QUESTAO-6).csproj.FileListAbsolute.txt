@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio(VETOR-QUESTAO-6)\bin\Debug\exercicio(VETOR-QUESTAO-6).exe.config
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio(VETOR-QUESTAO-6)\bin\Debug\exercicio(VETOR-QUESTAO-6).exe
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio(VETOR-QUESTAO-6)\bin\Debug\exercicio(VETOR-QUESTAO-6).pdb
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio(VETOR-QUESTAO-6)\obj\Debug\exercicio(VETOR-QUESTAO-6).csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio(VETOR-QUESTAO-6)\obj\Debug\exercicio(VETOR-QUESTAO-6).csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio(VETOR-QUESTAO-6)\obj\Debug\exercicio(VETOR-QUESTAO-6).exe
+C:\Users\DUDU1\source\repos\EXERCICIOS LOGICA DE PROGRAMAÇÃO\exercicio(VETOR-QUESTAO-6)\obj\Debug\exercicio(VETOR-QUESTAO-6).pdb
