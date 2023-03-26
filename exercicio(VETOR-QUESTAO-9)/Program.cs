@@ -22,23 +22,50 @@ namespace exercicio_VETOR_QUESTAO_9_
                 precoDeVenda[i] = double.Parse(vet[2], CultureInfo.InvariantCulture);
             }
 
-            double lucro = 0.0;
-            double porcent = 0.0;
-            int cont = 0;
+            // 1: encontrar a quantidade para cada faixa de lucro desejada.
 
+            int contAbaixoDe10 = 0;
+            int contEntre10E20 = 0;
+            int contAcimaDe20 = 0;
 
             for (int i=0; i<n; i++)
             {
-                lucro = precoDeCompra[i] - precoDeVenda[i];
-                porcent = (lucro / precoDeCompra[i]) * 100;
-                cont++;
+                double lucro = precoDeVenda[i] - precoDeCompra[i];
 
-                if (porcent < 10)
+                double porcentagemDeLucro = lucro / precoDeCompra[i] * 100.0;
+
+                if (porcentagemDeLucro < 10.0)
                 {
-                    cont++;
+                    contAbaixoDe10++;
+                }
+                else if(porcentagemDeLucro <= 20.0)
+                {
+                    contEntre10E20++;
+                }
+                else
+                {
+                    contAcimaDe20++;
                 }
             }
-            Console.WriteLine("lucro abaixo de 10%:" + cont);
+            Console.WriteLine("Lucro abaixo de 10%: " + contAbaixoDe10);
+            Console.WriteLine("Lucro entre 10% e 20%: " + contEntre10E20);
+            Console.WriteLine("Lucro acima de 20%: " + contAcimaDe20);
+
+            // 2: achar os totais
+
+            double totalCompra = 0.0;
+            double totalVenda = 0.0;
+            for (int i=0; i<n; i++)
+            {
+                totalCompra += precoDeCompra[i];
+                totalVenda += precoDeVenda[i];
+            }
+
+            double totalLucro = totalVenda - totalCompra;
+
+            Console.WriteLine("Valor total de compra: " + totalCompra.ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine("Valor total de venda: " + totalVenda.ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine("Lucro total: " + totalLucro.ToString("F2", CultureInfo.InvariantCulture));
             
         }
     }
